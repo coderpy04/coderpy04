@@ -1,6 +1,6 @@
 <h1> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" height="40" width="40">, I'm <span style="color: #007bff;">RITESH PANDEY</span></h1>
 <div>
-  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=Competitive-Programmer.......;Full-Stack-Developer.......;AI+ML+Enthusiast.......&color=grey"/>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=Competative-Programmer.......;Full-Stack-Developer.......;AI+ML+Enthusiast.......&color=grey"/>
 </div>
 
 I'm Ritesh Pandey a Competative Programmer and an aspiring Full Stack Web Developer. I Spend most of the time solving programming problems.</p>
