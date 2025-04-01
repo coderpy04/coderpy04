@@ -3,12 +3,12 @@
   <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=Competitive-Programmer.......;Full-Stack-Developer.......;AI+ML+Enthusiast.......&color=grey"/>
 </div>
 
-I'm Ritesh Pandey a Competitive programmer and an aspiring full stack web developer. I Spend most of the time solving programming problems.</p>
+I'm Ritesh Pandey a Competative Programmer and an aspiring Full Stack Web Developer. I Spend most of the time solving programming problems.</p>
 <div><img style="margin-right: 400px;" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" ></div>
 
 # 💫 About Me:
 
-🔭 I’m currently Third Year Student at, Indian Institute of Information Technology, Bhagalpur.<br>👯 I’m looking to collaborate on Competitive Programming and Full stack web development.<br>🌱 I’m currently learning AI ML.<br>💬 Ask me about anything related to dev and CP.
+🔭 I’m currently Third Year Student at, Indian Institute of Information Technology, Bhagalpur.<br>👯 I’m looking to collaborate on Competative Programming and Full stack web development.<br>🌱 I’m currently learning AI ML.<br>💬 Ask me about anything related to Dev and CP.
 
 
 <br/>
