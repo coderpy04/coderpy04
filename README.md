@@ -8,7 +8,7 @@ I'm Ritesh Pandey a Competitive Programmer and an aspiring Full Stack Web Develo
 
 # 💫 About Me:
 
-🔭 I’m currently Third Year Student at, Indian Institute of Information Technology, Bhagalpur.<br>👯 I’m looking to collaborate on Competative Programming and Full stack web development.<br>🌱 I’m currently learning AI ML.<br>💬 Ask me about anything related to Dev and CP.
+🔭 I’m currently Third Year Student at, Indian Institute of Information Technology, Bhagalpur.<br>👯 I’m looking to collaborate on Competitive Programming and Full stack web development.<br>🌱 I’m currently learning AI ML.<br>💬 Ask me about anything related to Dev and CP.
 
 
 <br/>
